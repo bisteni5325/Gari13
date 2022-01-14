@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:HERE-sdk:unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/HERE-sdk/build/.transforms/865ed60e8b5971c767f8eeba9ffd44be/jetified-HERE-sdk/res" />
+      <root url="file://$PROJECT_DIR$/HERE-sdk/build/.transforms/ea47b921aba6f54424b7d7dc667dbcc4/jetified-HERE-sdk/res" />
+      <root url="file://$PROJECT_DIR$/HERE-sdk/build/.transforms/d8cd71df53fe0333605ac72e5fd4cc87/jetified-HERE-sdk/res" />
+      <root url="jar://$PROJECT_DIR$/HERE-sdk/build/.transforms/d8cd71df53fe0333605ac72e5fd4cc87/jetified-HERE-sdk/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/HERE-sdk/build/.transforms/d8cd71df53fe0333605ac72e5fd4cc87/jetified-HERE-sdk/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/HERE-sdk/build/.transforms/c05bdc8da2a7f2138bd5cfc35e5e9e4f/jetified-HERE-sdk/res" />
+      <root url="file://$PROJECT_DIR$/HERE-sdk/build/.transforms/96195a608882172af371b20b709cdcda/jetified-HERE-sdk/res" />
+      <root url="file://$PROJECT_DIR$/HERE-sdk/build/.transforms/941d641723b9478065249a613d84c66b/jetified-HERE-sdk/res" />
+      <root url="file://$PROJECT_DIR$/HERE-sdk/build/.transforms/941d641723b9478065249a613d84c66b/jetified-HERE-sdk/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/HERE-sdk/build/.transforms/941d641723b9478065249a613d84c66b/jetified-HERE-sdk/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

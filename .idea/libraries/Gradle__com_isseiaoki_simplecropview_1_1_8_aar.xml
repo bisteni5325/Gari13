@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.isseiaoki:simplecropview:1.1.8@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e9285585ab4dabdcf6b99a10f8b7e2d6/jetified-simplecropview-1.1.8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e9285585ab4dabdcf6b99a10f8b7e2d6/jetified-simplecropview-1.1.8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e9285585ab4dabdcf6b99a10f8b7e2d6/jetified-simplecropview-1.1.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f0992e70691af19966e2ec009e0414d7/jetified-simplecropview-1.1.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f0992e70691af19966e2ec009e0414d7/jetified-simplecropview-1.1.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f0992e70691af19966e2ec009e0414d7/jetified-simplecropview-1.1.8/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.isseiaoki/simplecropview/1.1.8/6eea3d92d8ee0c5aa5882fe120636ad0869061cc/simplecropview-1.1.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.isseiaoki/simplecropview/1.1.8/5f0b32f8fda35aba62f3df1689a37b1362911282/simplecropview-1.1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

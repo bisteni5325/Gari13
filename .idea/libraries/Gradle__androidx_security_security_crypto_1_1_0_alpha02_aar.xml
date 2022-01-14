@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.security:security-crypto:1.1.0-alpha02@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/57d4bd4122f9180942de6094d120642e/jetified-security-crypto-1.1.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a73e93d1709f57eb50fc5670c579c9ed/jetified-security-crypto-1.1.0-alpha02/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/04532cb014deff00e1965e2da3d8c7d9/jetified-security-crypto-1.1.0-alpha02/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/04532cb014deff00e1965e2da3d8c7d9/jetified-security-crypto-1.1.0-alpha02/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/04532cb014deff00e1965e2da3d8c7d9/jetified-security-crypto-1.1.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eaada28c29d0ea573ec90b2de80adf0d/jetified-security-crypto-1.1.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4afb081ba158afdc2e616764bb2c15aa/jetified-security-crypto-1.1.0-alpha02/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c9408c0570b3dc42fe6dee980a9951f1/jetified-security-crypto-1.1.0-alpha02/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c9408c0570b3dc42fe6dee980a9951f1/jetified-security-crypto-1.1.0-alpha02/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c9408c0570b3dc42fe6dee980a9951f1/jetified-security-crypto-1.1.0-alpha02/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.security/security-crypto/1.1.0-alpha02/e04e74bcbbabb9cb3978da9040930a02d3265d6d/security-crypto-1.1.0-alpha02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

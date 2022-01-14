@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-database:20.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a0386c687702b5e6bc60d86c222f06a1/jetified-firebase-database-20.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7e56e55e4676e55ba511521c24a5eab3/jetified-firebase-database-20.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e774330ffdd685a66e2cf8dea5ee7a22/jetified-firebase-database-20.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e774330ffdd685a66e2cf8dea5ee7a22/jetified-firebase-database-20.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e774330ffdd685a66e2cf8dea5ee7a22/jetified-firebase-database-20.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60bdf6b24d9a08253eba8fb338dda3a6/jetified-firebase-database-20.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/20a15a139ab8a60f4abb020216ad1778/jetified-firebase-database-20.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72ca422d033dfea37ea32b07c13e925e/jetified-firebase-database-20.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72ca422d033dfea37ea32b07c13e925e/jetified-firebase-database-20.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72ca422d033dfea37ea32b07c13e925e/jetified-firebase-database-20.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-database/20.0.0/45dea02d529b472d8ab1cfded258eda6f288359a/firebase-database-20.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-database/20.0.0/567a4df31954fdbf498f9a15698473f5d5f632ce/firebase-database-20.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

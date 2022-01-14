@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.activity:activity:1.2.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/80bfbcc351f138004b675074d1109d58/jetified-activity-1.2.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89587698502c497342b8f586bfb48164/jetified-activity-1.2.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6c966305e151852d1007ac3cf5e32885/jetified-activity-1.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6e0624645ba40410108c8d3d9be1967/jetified-activity-1.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/80bfbcc351f138004b675074d1109d58/jetified-activity-1.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/80bfbcc351f138004b675074d1109d58/jetified-activity-1.2.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/80bfbcc351f138004b675074d1109d58/jetified-activity-1.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c4c506cfbacea3a2f6e128a4c48f001/jetified-activity-1.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f720214aa03d3bf44936e987e07917af/jetified-activity-1.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89587698502c497342b8f586bfb48164/jetified-activity-1.2.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89587698502c497342b8f586bfb48164/jetified-activity-1.2.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89587698502c497342b8f586bfb48164/jetified-activity-1.2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity/1.2.0/db99858022040027c637fdf623d4db4d7823e60b/activity-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

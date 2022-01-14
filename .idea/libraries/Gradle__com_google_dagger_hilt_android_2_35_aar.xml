@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.dagger:hilt-android:2.35@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d46d51fe8431ff6e3fd63437c298b48e/jetified-hilt-android-2.35/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1e727e1ed776816c0e65b9143783e4f/jetified-hilt-android-2.35/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b0d64012f1b88c8d20fcde2f85e57b7b/jetified-hilt-android-2.35/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b0d64012f1b88c8d20fcde2f85e57b7b/jetified-hilt-android-2.35/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b0d64012f1b88c8d20fcde2f85e57b7b/jetified-hilt-android-2.35/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75fbbc9aaa166dc8b5989415901daf53/jetified-hilt-android-2.35/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/18d12d092795f6faf4a7c4974d3109b4/jetified-hilt-android-2.35/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7736d22df2c7308264e41b9084f7fe3e/jetified-hilt-android-2.35/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7736d22df2c7308264e41b9084f7fe3e/jetified-hilt-android-2.35/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7736d22df2c7308264e41b9084f7fe3e/jetified-hilt-android-2.35/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.dagger/hilt-android/2.35/455fe1fffd51d2615d40f16634f212ced0b05b6a/hilt-android-2.35-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.dagger/hilt-android/2.35/492f96c2c5c1b1f293d8b419573d64ef7dd964ea/hilt-android-2.35-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

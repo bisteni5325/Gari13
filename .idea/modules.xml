@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TelematicsApp-Android2.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/TelematicsApp-Android2.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Zenroad.iml" filepath="$PROJECT_DIR$/.idea/modules/Zenroad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HERE-sdk/Zenroad.HERE-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/HERE-sdk/Zenroad.HERE-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Zenroad.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Zenroad.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/authentication/Zenroad.authentication.iml" filepath="$PROJECT_DIR$/.idea/modules/authentication/Zenroad.authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/content/Zenroad.content.iml" filepath="$PROJECT_DIR$/.idea/modules/content/Zenroad.content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/Zenroad.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/Zenroad.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/Zenroad.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/Zenroad.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/Zenroad.features.iml" filepath="$PROJECT_DIR$/.idea/modules/features/Zenroad.features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/account/Zenroad.features.account.iml" filepath="$PROJECT_DIR$/.idea/modules/features/account/Zenroad.features.account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/dashboard/Zenroad.features.dashboard.iml" filepath="$PROJECT_DIR$/.idea/modules/features/dashboard/Zenroad.features.dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/feed/Zenroad.features.feed.iml" filepath="$PROJECT_DIR$/.idea/modules/features/feed/Zenroad.features.feed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/leaderboard/Zenroad.features.leaderboard.iml" filepath="$PROJECT_DIR$/.idea/modules/features/leaderboard/Zenroad.features.leaderboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/obd/Zenroad.features.obd.iml" filepath="$PROJECT_DIR$/.idea/modules/features/obd/Zenroad.features.obd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/reward/Zenroad.features.reward.iml" filepath="$PROJECT_DIR$/.idea/modules/features/reward/Zenroad.features.reward.iml" />
+    </modules>
+  </component>
+</project>

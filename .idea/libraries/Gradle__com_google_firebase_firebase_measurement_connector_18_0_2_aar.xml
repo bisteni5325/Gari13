@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-measurement-connector:18.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/05540f480e3e34ac887c445879b813cf/jetified-firebase-measurement-connector-18.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1a37f9bf2ca9956c1bc73ab62c29ef4/jetified-firebase-measurement-connector-18.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4fb8846ff9dbe4071adbe0470a893bc9/jetified-firebase-measurement-connector-18.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4fb8846ff9dbe4071adbe0470a893bc9/jetified-firebase-measurement-connector-18.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4fb8846ff9dbe4071adbe0470a893bc9/jetified-firebase-measurement-connector-18.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/24b21f3a529e89fd918ccd4d471d3751/jetified-firebase-measurement-connector-18.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/26d55cb2eaa4de72d70ebca02da03a65/jetified-firebase-measurement-connector-18.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9291ae252a335302614535450e3b275e/jetified-firebase-measurement-connector-18.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9291ae252a335302614535450e3b275e/jetified-firebase-measurement-connector-18.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9291ae252a335302614535450e3b275e/jetified-firebase-measurement-connector-18.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-measurement-connector/18.0.2/6a8b08d2a93001c8d089863beda57683994fb63d/firebase-measurement-connector-18.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

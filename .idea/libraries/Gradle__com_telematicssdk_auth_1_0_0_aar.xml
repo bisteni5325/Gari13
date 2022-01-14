@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.telematicssdk:auth:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/038b47e6c4c33b9070df8e635a5f0ed5/jetified-auth-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/27a8e6b5f96241ca090f8870a17c59bc/jetified-auth-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13aa31a40e3557e9c03ada7a49d8cf59/jetified-auth-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13aa31a40e3557e9c03ada7a49d8cf59/jetified-auth-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13aa31a40e3557e9c03ada7a49d8cf59/jetified-auth-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/597aad456fe2dff03ac5d0ae7f619c22/jetified-auth-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/88d8a8dcc301ab77ad25336c734379cf/jetified-auth-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2cc88b420238538f67f2a81e8fdd2cf1/jetified-auth-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2cc88b420238538f67f2a81e8fdd2cf1/jetified-auth-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2cc88b420238538f67f2a81e8fdd2cf1/jetified-auth-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

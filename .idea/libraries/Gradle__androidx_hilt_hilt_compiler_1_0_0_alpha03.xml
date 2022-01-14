@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.hilt:hilt-compiler:1.0.0-alpha03">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.hilt/hilt-compiler/1.0.0-alpha03/c76395b6adca97eb50153b5b0d8b2bc06f83f26f/hilt-compiler-1.0.0-alpha03.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.hilt/hilt-compiler/1.0.0-alpha03/16da93caae149612af7aaa16ceabc939cb2ea56a/hilt-compiler-1.0.0-alpha03-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

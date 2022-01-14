@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="2dp"
+        android:layout_marginTop="48dp"
+        android:background="@android:color/darker_gray"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/layoutTabs" />
+
+    <TextView
+        android:id="@+id/textMyActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:fontFamily="@font/open_sans_bold"
+        android:text="MI ACTIVIDAD"
+        android:textColor="@android:color/black"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@id/layoutTabs"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/layoutTabs" />
+
+    <TextView
+        android:id="@+id/textAverageSpeed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="24dp"
+        android:fontFamily="@font/open_sans_bold"
+        android:text="Velocidad promedio"
+        android:textColor="@color/colorPrimaryText"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toTopOf="@id/textMaxSpeed"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textMyActivity" />
+
+    <TextView
+        android:id="@+id/textMaxSpeed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/open_sans_bold"
+        android:text="Velocidad máxima"
+        android:textColor="@color/colorPrimaryText"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toTopOf="@id/textAverageTripDistance"
+        app:layout_constraintStart_toStartOf="@id/textAverageSpeed"
+        app:layout_constraintTop_toBottomOf="@id/textAverageSpeed" />
+
+    <TextView
+        android:id="@+id/textAverageTripDistance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="6dp"
+        android:fontFamily="@font/open_sans_bold"
+        android:text="Distancia promedio"
+        android:textColor="@color/colorPrimaryText"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="@id/layoutTabs"
+        app:layout_constraintStart_toStartOf="@id/textAverageSpeed"
+        app:layout_constraintTop_toBottomOf="@id/textMaxSpeed" />
+
+
+    <RelativeLayout
+        android:id="@+id/layoutTabs"
+        android:layout_width="0dp"
+        android:layout_height="160dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintWidth_percent="0.6"
+        tools:layout_editor_absoluteY="170dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="56dp"
+            android:src="@drawable/ic_eco_scoring_tabs_bg" />
+
+        <androidx.viewpager.widget.ViewPager
+            android:id="@+id/pager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.google.android.material.tabs.TabLayout
+                android:id="@+id/tabLayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="parent"
+                app:tabIndicatorColor="@color/colorDefButton"
+                app:tabRippleColor="@null"
+                app:tabTextAppearance="@style/TextAppearanceTabs"
+                app:tabTextColor="#000" />
+
+        </androidx.viewpager.widget.ViewPager>
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:background="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/layoutTabs" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

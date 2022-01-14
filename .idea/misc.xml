@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/app/src/main/res/layout/activity_verify_code.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/app/src/main/res/layout/company_id_fragment.xml" value="0.22" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/app/src/main/res/layout/fragment_onboarding.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/app/src/main/res/layout/main_activity.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/app/src/main/res/layout/main_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/app/src/main/res/layout/measures_fragment.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/app/src/main/res/layout/onboarding_page_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/app/src/main/res/layout/settings_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/app/src/main/res/layout/sign_in_fragment.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/app/src/main/res/layout/sign_up_fragment.xml" value="0.22" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/app/src/main/res/layout/splash_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/app/src/main/res/menu/bottom_menu.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/drawable/dr_login_email_rect.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/drawable/ic_account_car.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/drawable/ic_arrow_double_back.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/drawable/ic_back.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/drawable/ic_custom_dialog_bubble.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/drawable/ic_dash_arrow_down_gray.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/drawable/ic_dash_settings.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/drawable/ic_def_btn_disable.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/drawable/ic_def_btn_norm.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/drawable/ic_def_btn_orange.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/drawable/ic_def_btn_press.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/drawable/ic_dot_green.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/drawable/ic_menu_dashboard.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/drawable/ic_menu_profile.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/drawable/ic_rect_checkbox.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/drawable/ic_sett_measure.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/drawable/splash_screen.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/layout/main_toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/layout/vehicle_item_view.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/content/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/data/src/main/res/drawable/dialog_selected_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/data/src/main/res/drawable/ic_wizard_page_bg_bottom.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/data/src/main/res/layout/activity_permissions_wizard.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/data/src/main/res/layout/layout_telematics_background_location_settings.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/data/src/main/res/layout/layout_telematics_wizard_page.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/account/src/main/res/drawable/ic_arrow_back_24dp.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/account/src/main/res/layout/account_navigation_fragment.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/account/src/main/res/layout/fragment_account.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/account/src/main/res/layout/fragment_account_feature_host.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/account/src/main/res/layout/fragment_choose_model_vehicle.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/account/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/account/src/main/res/layout/layout_account_vehicles.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/account/src/main/res/layout/layout_user_info_bubble.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/dashboard/src/main/res/drawable/ic_empty_dashboard_last_trip.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/dashboard/src/main/res/layout/dashboard_card_view.xml" value="0.22" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/dashboard/src/main/res/layout/fragment_dashboard.xml" value="0.22" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/dashboard/src/main/res/layout/fragment_new_dashboard_cards.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/dashboard/src/main/res/layout/fragment_new_dashboard_rank.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/dashboard/src/main/res/layout/layoit_tab_eco_scoring.xml" value="0.22" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/dashboard/src/main/res/layout/layout_dashboard_drive_coins.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/dashboard/src/main/res/layout/layout_eco_scoring_dashboard.xml" value="0.22" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/dashboard/src/main/res/layout/layout_in_dashboard_empty_last_trip.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/dashboard/src/main/res/layout/layout_item_eco_scoring.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/dashboard/src/main/res/layout/layout_last_trip_dashboard.xml" value="0.12" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/dashboard/src/main/res/layout/new_dashboard_item.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/feed/src/main/res/layout/claim_dialog_view.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/feed/src/main/res/layout/dialog_change_driver_type.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/feed/src/main/res/layout/fragment_feed.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/feed/src/main/res/layout/fragment_feed_feature_host.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/feed/src/main/res/layout/fragment_trip_datail.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/feed/src/main/res/layout/fragment_trip_details_bottom_sheet.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/feed/src/main/res/layout/fragment_trip_details_map.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/feed/src/main/res/layout/info_bubble_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/feed/src/main/res/layout/layout_feed_empty_data.xml" value="0.10666666666666667" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/feed/src/main/res/layout/layout_trip_item.xml" value="0.22" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/leaderboard/src/main/res/drawable/gradient_leadboard_current_user.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/leaderboard/src/main/res/layout/fragment_leaderboard_details.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/leaderboard/src/main/res/layout/layout_item_leaderboard.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/leaderboard/src/main/res/layout/layout_item_leaderboard_placeholder.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/leaderboard/src/main/res/layout/leaderboard_user_placeholder_item.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/leaderboard/src/main/res/layout/leaderboard_user_value_item.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/obd/src/main/res/drawable/background_rounded.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/obd/src/main/res/drawable/elm_selected_background.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/obd/src/main/res/drawable/ic_odb_bluetooth.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/obd/src/main/res/drawable/ic_odb_first.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/obd/src/main/res/drawable/ic_odb_prepare.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/obd/src/main/res/drawable/ic_odb_second.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/obd/src/main/res/drawable/ic_odb_third.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/obd/src/main/res/drawable/ic_odb_third_back.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/obd/src/main/res/drawable/obd_connected.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/obd/src/main/res/layout/elm_device_item_view.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/obd/src/main/res/layout/fragment_crop_image.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/obd/src/main/res/layout/fragment_obd_add_vehicle.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/obd/src/main/res/layout/fragment_obd_car_not_supported.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/obd/src/main/res/layout/fragment_obd_choose_model_vehicle.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/reward/src/main/res/drawable/badge_tab_background.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/reward/src/main/res/drawable/drive_coins_arrow_top.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/reward/src/main/res/drawable/drive_coins_brakes.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/reward/src/main/res/drawable/total_coins_background.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/reward/src/main/res/layout/fragment_drivecoins.xml" value="0.6666666666666666" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/reward/src/main/res/layout/fragment_eco_drive.xml" value="0.22" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/reward/src/main/res/layout/fragment_reward_feature_host.xml" value="0.6666666666666666" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/reward/src/main/res/layout/fragment_rewards_invite.xml" value="0.240625" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/reward/src/main/res/layout/fragment_safe_drive.xml" value="0.1" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/reward/src/main/res/layout/fragment_streaks.xml" value="0.17969661610268378" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/reward/src/main/res/layout/fragment_travelling.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/biste/StudioProjects/TelematicsApp-Android2/features/reward/src/main/res/layout/streaks_list_item.xml" value="0.4466666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

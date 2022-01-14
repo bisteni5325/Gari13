@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "190338126068",
+    "firebase_url": "https://gari-abdcd-default-rtdb.firebaseio.com",
+    "project_id": "gari-abdcd",
+    "storage_bucket": "gari-abdcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190338126068:android:50e06c9e5e25e3ae1e0ea1",
+        "android_client_info": {
+          "package_name": "com.gari.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190338126068-ep3nbk2it21tgvjd7og41i7iskpfh071.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gari.app",
+            "certificate_hash": "090d6a347404e033e1ec757af7cd393f51386c66"
+          }
+        },
+        {
+          "client_id": "190338126068-mjq8qfqts1u4b73dfqg1k0jdd57obdku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-q0wuBxDiqbFetGjs4p1wB6s8N434qEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190338126068-mjq8qfqts1u4b73dfqg1k0jdd57obdku.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "190338126068-42m62i402p0qg6ptm723e0i2ocgmbm36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.telematics.gari"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
